@@ -1,0 +1,31 @@
+.container {
+  background-color: #ff8700;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.conta-secao {
+
+}
+
+.conta-secao a {
+  background-color: white;
+  padding: 15px 90px;
+  color: #ff8700;
+  font-weight: 600;
+}
+
+.conta-secao h1 {
+  color: white;
+  font-size: 32px;
+}
+
+.conta-secao p {
+  color: white;
+  font-size: 18px;
+}
+
+.conta-secao a:hover {
+  color: #464646;
+  background-color: rgb(238, 238, 238);
+}
